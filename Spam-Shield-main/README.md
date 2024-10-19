@@ -13,7 +13,7 @@
 1. **Download this GitHub repository**
 	- Either Clone the repository
 		```
-		git clone https://github.com/HarshPatel0x07/Spam-Hound.git
+		git clone https://github.com/dubeymihir/Spam-Hound.git
 		```
 	- Or download and extract the zip archive of the repository.
 
